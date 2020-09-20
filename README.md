@@ -15,7 +15,7 @@ author's github source repo: <a href="https://github.com/keon/3-min-pytorch">cli
 
 ## :clipboard: 목차
 
-1. <a href="https://github.com/JerryKwon/3-min-pytorch-review/tree/master/1.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC%20%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98">딥러닝과 파이토치</a> (9/16)
+1. <a href="https://github.com/JerryKwon/3-min-pytorch-review/blob/master/1.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC%20%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98/1.%20%EB%94%A5%EB%9F%AC%EB%8B%9D%EA%B3%BC%20%ED%8C%8C%EC%9D%B4%ED%86%A0%EC%B9%98.ipynb">딥러닝과 파이토치</a> (9/16)
 2. 파이토치 시작하기
 3. 파이토치로 구현하는 ANN
 4. 패션 아이템을 구분하는 DNN
