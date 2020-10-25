@@ -27,7 +27,7 @@ author's github source repo: <a href="https://github.com/keon/3-min-pytorch">cli
 4. <a href="https://github.com/JerryKwon/3-min-pytorch-review/blob/master/4.%20%ED%8C%A8%EC%85%98%20%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EB%8A%94%20DNN/4.%20%ED%8C%A8%EC%85%98%20%EC%95%84%EC%9D%B4%ED%85%9C%EC%9D%84%20%EA%B5%AC%EB%B6%84%ED%95%98%EB%8A%94%20DNN.ipynb">패션 아이템을 구분하는 DNN</a>(9/23~10/11)
 5. <a href="https://github.com/JerryKwon/3-min-pytorch-review/blob/master/5.%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%B2%98%EB%A6%AC%20%EB%8A%A5%EB%A0%A5%EC%9D%B4%20%ED%83%81%EC%9B%94%ED%95%9C%20CNN/5.%20%EC%9D%B4%EB%AF%B8%EC%A7%80%20%EC%B2%98%EB%A6%AC%20%EB%8A%A5%EB%A0%A5%EC%9D%B4%20%ED%83%81%EC%9B%94%ED%95%9C%20CNN.ipynb">이미지 처리 능력이 탁월한 CNN</a>(10/11~10/12)
 6. <a href="https://github.com/JerryKwon/3-min-pytorch-review/blob/master/6.%20%EC%82%AC%EB%9E%8C%EC%9D%98%20%EC%A7%80%EB%8F%84%20%EC%97%86%EC%9D%B4%20%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94%20%EC%98%A4%ED%86%A0%EC%9D%B8%EC%BD%94%EB%8D%94/6.%20%EC%82%AC%EB%9E%8C%EC%9D%98%20%EC%A7%80%EB%8F%84%20%EC%97%86%EC%9D%B4%20%ED%95%99%EC%8A%B5%ED%95%98%EB%8A%94%20%EC%98%A4%ED%86%A0%EC%9D%B8%EC%BD%94%EB%8D%94.ipynb">사람의 지도 없이 학습하는 오토인코더</a>(10/13~10/15)
-7. 순차적인 데이터를 처리하는 RNN
+7. <a href="https://github.com/JerryKwon/3-min-pytorch-review/blob/master/7.%20%EC%88%9C%EC%B0%A8%EC%A0%81%EC%9D%B8%20%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC%20%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94%20RNN/7.%20%EC%88%9C%EC%B0%A8%EC%A0%81%EC%9D%B8_%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%A5%BC_%EC%B2%98%EB%A6%AC%ED%95%98%EB%8A%94_RNN.ipynb">순차적인 데이터를 처리하는 RNN</a>(10/25~)
 8. 딥러닝을 해킹하는 적대적 공격
 9. 경쟁하며 학습하는 GAN
 10. 주어진 환경과 상호작용하며 학습하는 DQN
